@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:random_number_generator/component/number_row.dart';
 import 'package:random_number_generator/constant/color.dart';
